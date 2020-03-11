@@ -23,6 +23,7 @@
 
 #ifndef _LINUX_SIS_I2C_H
 #define _LINUX_SIS_I2C_H
+jahol
 
 flajf
 #define SIS_I2C_NAME "sis_i2c_ts"
